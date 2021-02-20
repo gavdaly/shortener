@@ -1,0 +1,9 @@
+name = "cfshornener"
+type = "javascript"
+account_id = ""
+workers_dev = true
+route = "/"
+zone_id = ""
+kv_namespaces = [
+    {binding = "shortener", id = "", preview_id = ""}
+]
